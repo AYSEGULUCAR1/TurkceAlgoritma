@@ -1,0 +1,45 @@
+BİLGİSAYAR MÜHENDİSLİĞİ AYŞEGÜL UÇAR 2211502039
+
+FATMA ANA KYK YURDU’NDAN BANDIRMA DEVLET HASTANESİ’NE GİTME ALGORİTMASI
+
+Yatakta oturur pozisyona gelirim.
+ Ayaklarımı yana atarım ve ayağa kalkarım. 
+Ayağımı ileri götürerek terliklerimi giyerim. 
+Sola dönerim ilerlerim.
+Sağa dönerim ilerlerim.
+Sola döner ilerlerim.
+ Musluğa elimi götürürüm ve daire şeklinde çeviririm.
+Elimi akan suya götürürüm birbirine sürterek yıkarım 
+Elimi birleştirip suyu toplarım ve yüzüme götürüp yıkarım.
+Önce sola sonra sağa yürüyerek dolabıma ulaşırım.
+Elimi uzatıp pantolon ve kazağa erişirim.
+Kollarımı kazaktan geçirip üstüme giyerim.
+Pantolona bacaklarımı geçirip üstüme giyerim.
+Kapıya yönelirim.
+Elimi kulpuna yöneltip aşağı doğru bastırarak açarım.
+Koridora çıkarım kapıyı kapatırım ve sonuna kadar gidip 1 kat aşağı inerim.
+Önce sağa sonra sola yürüyerek bloktan çıkarım.
+Önce sağa sonra sola yürüyerek güvenliğe ulaşırım.
+Elimi yukarı kaldırır parmak izi noktasına götürüp parmağımı bastırırım.
+Onay sesini duyunca sola yönelir yürürüm.
+Elimi uzatıp kapıyı tutarım ve kendime çekerim açılan yerden dışarı çıkarım.
+Yaklaşık 13 dakika içinde varacağım hastaneye gitmeye başlarım.
+İlk sağa yönelirim ve 200 metre o yönde yürürüm.
+Hastane otoparkına geldiğimde tekrar sağa yönelirim 100 metre giderim.
+Sola yönelirim 50 metre giderim.
+Hastane merdivenlerinden çıkarım ve içeri girerim.
+
+
+GOOGLE MAPS ÇALIŞMA METODU VE ALGORİTMASI NEDİR?
+
+A*Algoritması ve Dijkstra Algoritması kullanır.
+1)	HARİTA VERİLERİNİN KULLANILMASI
+Google, dünya genelindeki harita verilerini toplamak için şunları kullanır;
+Uydu görüntüleri, hava fotoğrafları, sokak görüntüleri, kullanıcının sağladığı veriler ve diğer harita hizmetleri.
+2)	HARİTA VERİLERİNİN İŞLENMESİ
+Toplanan veriler, algoritmalar kullanılarak işlenir.
+Bu işlem harita verilerini oluşturmak ve güncellemek için yapılır.
+Doğruluğunu arttırmak için yollar, yer işaretleri, trafik durumu ve diğer harita özellikleri entegre edilir.
+3)	KULLANICIYA HARİTA BİLGİLERİNİN SUNULMASI
+Kullanıcı konumu aradığında, Google Maps bu isteği işler ve en uygun sonuçları belirler.
+Kullanıcıya en kısa yolu, trafik durumunu, toplu taşıma seçeneklerini ve yerel işletmelerin konumlarının verilerini sunar.
